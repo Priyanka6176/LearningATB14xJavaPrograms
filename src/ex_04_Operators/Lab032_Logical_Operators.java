@@ -1,6 +1,7 @@
 package ex_04_Operators;
 
 public class Lab032_Logical_Operators {
+
     public static void main(String[] args) {
         boolean a = true;
         System.out.println(!a);
@@ -14,5 +15,7 @@ public class Lab032_Logical_Operators {
 
         boolean c1= false && true;
         System.out.println(c1);
+
+
     }
 }
