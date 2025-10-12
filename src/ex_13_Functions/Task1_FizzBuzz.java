@@ -1,4 +1,4 @@
-package ex_10_Functions;
+package ex_13_Functions;
 
 public class Task1_FizzBuzz {
     public static void main(String[] args) {

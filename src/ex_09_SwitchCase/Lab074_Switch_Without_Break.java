@@ -2,7 +2,7 @@ package ex_09_SwitchCase;
 
 import java.util.Scanner;
 
-public class Lab074_Swith_Without_Break {
+public class Lab074_Switch_Without_Break {
     public static void main(String[] args) {
         // Switch
 
