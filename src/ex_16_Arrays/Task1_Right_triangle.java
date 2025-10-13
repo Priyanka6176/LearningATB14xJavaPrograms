@@ -1,8 +1,8 @@
 package ex_16_Arrays;
 
-public class Task2_Inverted_Right_Triangle {
+public class Task1_Right_triangle {
     public static void main(String[] args) {
-        for(int i=5;i>=1;i--)
+        for(int i=1;i<=3;i++)
         {
             for(int j=1;j<=i;j++)
             {
